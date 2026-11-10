@@ -20,6 +20,12 @@ The hub keeps itself and the apps up to date.
 | Vendor File Formatter | Formats vendor product lists, invoices and open orders, and fills in item info from AEPOS | SQL Server |
 | AEPOS Inventory | Counts, adjustments, receiving and transfers, staged and reviewed before they go into AEPOS; count from a phone | SQL Server, Postgres |
 
+## Extras
+
+| Extra | What it is |
+|---|---|
+| AzureLabel shelf tag templates | Label templates and the AEPOS item query, for use in AzureLabel (bought separately from azurelabel.com; barcodes need its Pro license). Get them from **Extras** in the hub. |
+
 ## Before you start
 
 - Windows 10 or 11, 64-bit.
