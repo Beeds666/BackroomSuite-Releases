@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Beeds666/BackroomSuite-Releases/main/icon.png" width="96" align="right" alt="">
+
 # Backroom Suite
 
 Back-office tools for stores running AEPOS (AdvEntPOS). Backroom Suite is independent software and
