@@ -20,7 +20,7 @@ The hub keeps itself and the apps up to date.
 | App | What it does | Databases |
 |---|---|---|
 | Vendor File Formatter | Formats vendor product lists, invoices and open orders, and fills in item info from AEPOS | SQL Server |
-| AEPOS Inventory | Counts, adjustments, receiving and transfers, staged and reviewed before they go into AEPOS; count from a phone | SQL Server, Postgres |
+| Backroom Inventory | Counts, adjustments, receiving and transfers, staged and reviewed before they go into AEPOS; count from a phone | SQL Server, Postgres |
 
 ## Extras
 
